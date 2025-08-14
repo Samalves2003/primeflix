@@ -292,20 +292,6 @@ npm run build
 - Code splitting automático
 - Service worker para cache
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Para contribuir:
-
-1. Fork o projeto
-2. Crie uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abra um Pull Request
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 ## 👨‍💻 Autor
 
 **Samuel S. Alves**
@@ -313,13 +299,5 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 - LinkedIn: [Samuel Alves](https://www.linkedin.com/in/samuel-alves2003/)
 - Portfolio: [eusamnaweb.netlify.app](https://eusamnaweb.netlify.app)
 
-## 🙏 Agradecimentos
-
-- [The Movie Database (TMDb)](https://www.themoviedb.org/) pela API gratuita e dados de qualidade
-- [React](https://reactjs.org/) pela biblioteca incrível
-- [Tailwind CSS](https://tailwindcss.com/) pelo framework CSS utilitário
-- Comunidade open source pelas ferramentas e inspiração
-
----
 
 **Desenvolvido com ❤️ por Samuel Alves**
