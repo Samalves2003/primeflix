@@ -1,5 +1,5 @@
 # 🎬 PrimeFlix - Catálogo de Filmes Moderno
-
+## Meu primeiro projeto com React e Tailwind CSS :D
 ![PrimeFlix Banner](https://img.shields.io/badge/PrimeFlix-Cinema%20Digital-purple?style=for-the-badge&logo=react)
 
 ## 📋 Sobre o Projeto
